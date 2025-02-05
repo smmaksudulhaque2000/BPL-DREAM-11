@@ -1,0 +1,18 @@
+.color-btn{
+    background-color: rgb(217, 255, 0);  
+}
+.siz-btn{
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid rgba(209, 207, 207, 0.941);
+}
+.left-btn{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: none;
+}
+.right-btn{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: none;
+}

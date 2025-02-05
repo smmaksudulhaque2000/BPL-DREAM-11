@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Daniel Rhodes",
+        "id": 1,
+        "nationality": "Australia",
+        "rating": 87,
+        "position": "Batsman",
+        "batingposition": "Left-Hand-Bat",
+        "bowlingposition": "Left-Hand-Bowl",
+        "price": 1200000,
+        "image": "https://i.ibb.co.com/5TXNwZR/pakisthan.jpg"
+    },
+    {
+        "name": "Arjun Patel",
+        "id": 2,
+        "nationality": "India",
+        "rating": 92,
+        "position": "All-Rounder",
+        "batingposition": "Right-Hand-Bat",
+        "bowlingposition": "Left-Hand-Bowl",
+        "price": 1500000,
+        "image": "https://i.ibb.co.com/xGr18Tg/virat.jpg"
+    },
+    {
+        "name": "Musa Javed",
+        "id": 3,
+        "nationality": "Pakistan",
+        "rating": 84,
+        "position": "All-Rounder",
+        "batingposition": "Right-Hand-Bat",
+        "bowlingposition": "Right-Hand-Bowl",
+        "price": 950000,
+        "image": "https://i.ibb.co.com/3C0Nmcf/fmc.jpg"
+    },
+    {
+        "name": "Ethan Parker",
+        "id": 4,
+        "nationality": "England",
+        "rating": 89,
+        "position": "Batsman",
+        "batingposition": "Left-Hand-Bat",
+        "bowlingposition": "Left-Hand-Bowl",
+        "price": 1300000,
+        "image": "https://i.ibb.co.com/b3KSQ79/bdc.jpg"
+    },
+    {
+        "name": "Kagiso Dlamini",
+        "id": 5,
+        "nationality": "South Africa",
+        "rating": 90,
+        "position": "Bowler",
+        "batingposition": "Right-Hand-Bat",
+        "bowlingposition": "Right-Hand-Bowl",
+        "price": 1100000,
+        "image": "https://i.ibb.co.com/K5fVJSQ/dhoni.jpg"
+    },
+    {
+        "name": "Pedro Rodriguez",
+        "id": 6,
+        "nationality": "West Indies",
+        "rating": 85,
+        "position": "Bowler",
+        "batingposition": "Left-Hand-Bat",
+        "bowlingposition": "Left-Hand-Bowl",
+        "price": 1000000,
+        "image": "https://i.ibb.co.com/qMY6yFr/bd.jpg"
+    },
+    {
+        "name": "John Sterling",
+        "id": 7,
+        "nationality": "Australia",
+        "rating": 82,
+        "position": "All-Rounder",
+        "batingposition": "Right-Hand-Bat",
+        "bowlingposition": "Right-Hand-Bowl",
+        "price": 950000,
+        "image": "https://i.ibb.co.com/ngPkSgY/new.jpg"
+    },
+    {
+        "name": "Marcus Thompson",
+        "id": 8,
+        "nationality": "England",
+        "rating": 90,
+        "position": "Batsman",
+        "batingposition": "Right-Hand-Bat",
+        "bowlingposition": "Right-Hand-Bowl",
+        "price": 1200000,
+        "image": "https://i.ibb.co.com/tmBQ1FB/154707.jpg"
+    },
+    {
+        "name": "Rajesh Kumar",
+        "id": 9,
+        "nationality": "India",
+        "rating": 88,
+        "position": "Bowler",
+        "batingposition": "Left-Hand-Bat",
+        "bowlingposition": "Right-Hand-Bowl",
+        "price": 1100000,
+        "image": "https://i.ibb.co.com/XDdHNCS/images.jpg"
+    }
+
+]

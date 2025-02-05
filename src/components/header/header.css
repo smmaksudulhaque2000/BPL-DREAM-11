@@ -1,0 +1,15 @@
+.h-bg{
+    background-color: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(10px);
+}
+.banner{
+    background-image: url("../../assets/image/bg-shadow.png");
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.99);
+}
+.banner-btn{
+    background-color: rgb(217, 255, 0);
+    padding: 15px;
+    border-radius: 10px;  
+}
